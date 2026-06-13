@@ -11,16 +11,16 @@ Click the link below to view the complete **2-page project report** in PDF forma
 
 ## 📌 Features
 
-- ✅ User Signup/Login with JWT Authentication
+- ✅ User Signup/Login with JWT Authentications
 - 📃 View All Registered Users
 - 💬 Real-Time 1:1 and Group Chat using Socket.IO
 - 🎨 Light/Dark Mode Toggle
 - 🖼️ Upload Profile Picture (Cloudinary)
-- 📱 Responsive UI for all screen sizes
+- 📱 Responsive UI for all screen size
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stacks
 
 **Frontend:**
 - React.js
